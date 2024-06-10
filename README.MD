@@ -1,0 +1,1 @@
+Apache Kafka with GO - this is one of the best ways to use Kafka with GO - using Sarama by IBM. This library is very stable, provides a lot of functionality and can 100% be used in production (unlike other kafka libraries for GO).
